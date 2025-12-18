@@ -10,7 +10,7 @@ echo -e "${GREEN}### Automated System Information Report ###${NC}"
 ## 3.1 Identify the system's public IP
 echo "---------------------------------------------------------"
 echo -e "${GREEN}3.1. Public IP Address:${NC}"
-PUBLIC_IP=$(curl api.ipify.org) #icanhazip.com, api.ipify.org,ipinfo.io
+PUBLIC_IP=$(curl ipinfo.io) #icanhazip.com, api.ipify.org, ipinfo.io
 if [ -n "$PUBLIC_IP" ]; then
     echo " $PUBLIC_IP"
 else
