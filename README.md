@@ -24,7 +24,7 @@ The README explains the goals, required tools, step‑by‑step workflow, and ex
 | btk-w09.lan         | 192.168.87.70    | —                   | Harmony OS 3.1.0             | —                   | —                | —                |
 | nothing-phone-2a.lan| 192.168.87.72    | 4a:18:a2:xx:xx:xx   | Android 15                   | 4A:18:A2            | —                | —                |
 | pixel-18a.lan       | 192.168.87.74    | —                   | Android 15                   | —                   | —                | —                |
-| laptop-iqaboh8d.lan | 192.168.87.78    | 90:ca:fa:68:72:1b   | Windows 11 Home 10.0.26200   | 90:CA:FA            | LAPTOP-IQABOH8D  | Microsoft Corp.  |
+| laptop-iqaboh8d.lan | 192.168.87.78    | 90:ca:fa:xx:xx:xx   | Windows 11 Home 10.0.26200   | 90:CA:FA            | LAPTOP-IQABOH8D  | Microsoft Corp.  |
 | suunto-1310.lan     | 192.168.87.79    | —                   | —                            | —                   | —                | —                |
 
 
